@@ -41,6 +41,6 @@ uploadArchives {
         repository(url: 'http://nexus.chaoticmoon.com/content/repositories/assets')
         pom.version = version
         pom.groupId = group
-        pom.artifactId = artifact
+        pom.artifactId = 'assets'
     }
 }
