@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/rharter/code/chaoticmoon/SampleAssets/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/rharter/code/chaoticmoon/SampleAssets/src/debug/assets" />
+    </dataSet>
+
+</merger>
